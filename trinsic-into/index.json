@@ -1,0 +1,52 @@
+{
+  "title": "Trinsic 101",
+  "description": "Getting started with Trinsic and the Trinsic CLI",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "The Trinsic CLI",
+        "text": "step1.md"
+      },
+      {
+        "title": "Ecosystems",
+        "text": "step2.md",
+        "code": "clear.sh"
+      },
+      {
+        "title": "Templates",
+        "text": "step3.md"
+      },
+      {
+        "title": "Issuing a credential",
+        "text": "step4.md"
+      },
+      {
+        "title": "Add the credential to your wallet",
+        "text": "step5.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "configure.sh",
+      "code": "ready.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+          {"file": "install.sh", "target": "/usr/local/bin/", "chmod": "+x"},
+          {"file": "templ.json", "target": "/root/"},
+          {"file": "values.json", "target": "/root/"}
+      ]
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
