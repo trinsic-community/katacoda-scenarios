@@ -20,11 +20,13 @@
       },
       {
         "title": "Issuing a credential",
-        "text": "step4.md"
+        "text": "step4.md",
+        "code": "clear.sh"
       },
       {
         "title": "Add the credential to your wallet",
-        "text": "step5.md"
+        "text": "step5.md",
+        "code": "clear.sh"
       }
     ],
     "intro": {

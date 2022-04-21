@@ -1,4 +1,4 @@
-Congratulations! You are now a Trinsic CLI Master, and you have the verifiable credential to proove it!
+Congratulations! You are now a Trinsic CLI Master, and you have the verifiable credential to prove it!
 
 Where do you go from here? I'm so glad you asked!
 
