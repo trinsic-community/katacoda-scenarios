@@ -1,6 +1,6 @@
 This scenario will introduce you to Trinsic via the trinsic cli.
 
-At the end you will have successfully issued and received your very own VC. &#1f389;
+At the end you will have successfully issued and received your very own verifiable credential. &#127881;
 
 Some of the concepts we'll be covering:
 
