@@ -37,4 +37,4 @@ Let's create that template in our newly minted ecosystem:
 
 Once the template is created you will see the full template returned, which will include context and schema uri.
 
-Notice the template ID: it was created inside the ecosystem we crated in the last step: `urn:template:<ecosystem ID>:trinsic-cli-master`. We reference this id when we issue credentials, which we will do in the next step!
+Notice the template ID: it was created inside the ecosystem we created in the last step: `urn:template:<ecosystem ID>:trinsic-cli-master`. We reference this id when we issue credentials, which we will do in the next step!

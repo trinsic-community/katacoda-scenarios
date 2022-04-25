@@ -4,11 +4,11 @@ The first thing you will need is the full template id:
 
 `trinsic template list`{{execute}}
 
-Find the ID of the `Trinsic CLI Master` credentials we just created. It will in the form of a urn:
+Find the ID of the `Trinsic CLI Master` template we just created. It will be in the form of a urn:
 
 `urn:template:<ecosystem ID>:trinsic-cli-master`
 
-Now, lets define the values we want to populate the credential with. You can provide these as a json string or, more easily, in a json file. We've pre-populated one for you, update it with any values you want:
+Now, let's define the values we want to populate the credential with. You can provide these as a json string or, more easily, in a json file. We've pre-populated one for you, update it with any values you want:
 
 `nano values.json`{{execute}}
 
