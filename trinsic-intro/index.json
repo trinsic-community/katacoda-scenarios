@@ -40,12 +40,15 @@
     "assets": {
       "host01": [
           {"file": "install.sh", "target": "/usr/local/bin/", "chmod": "+x"},
-          {"file": "templ.json", "target": "/root/"},
-          {"file": "values.json", "target": "/root/"}
+          {"file": "templ.json", "target": "/root/example"},
+          {"file": "values.json", "target": "/root/example"}
       ]
     }
   },
   "environment": {
+    "uieditorpath": "/root/example",
+    "showide": true,
+    "idePort": 23000,
     "uilayout": "terminal"
   },
   "backend": {
